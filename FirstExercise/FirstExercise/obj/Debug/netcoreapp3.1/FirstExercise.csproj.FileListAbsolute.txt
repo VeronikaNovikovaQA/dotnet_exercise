@@ -1,0 +1,14 @@
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\bin\Debug\netcoreapp3.1\FirstExercise.exe
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\bin\Debug\netcoreapp3.1\FirstExercise.deps.json
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\bin\Debug\netcoreapp3.1\FirstExercise.runtimeconfig.json
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\bin\Debug\netcoreapp3.1\FirstExercise.runtimeconfig.dev.json
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\bin\Debug\netcoreapp3.1\FirstExercise.dll
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\bin\Debug\netcoreapp3.1\FirstExercise.pdb
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.csproj.AssemblyReference.cache
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.AssemblyInfoInputs.cache
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.AssemblyInfo.cs
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.csproj.CoreCompileInputs.cache
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.dll
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.pdb
+C:\Users\veronika.novikova\Desktop\FirstExercise\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.genruntimeconfig.cache
